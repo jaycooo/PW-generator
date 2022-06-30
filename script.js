@@ -30,4 +30,4 @@ var pwdCriteria = {
  var numbers;
  var specialChar;
 
- 
+ generateBtn.addEventListener("click", pwdLowerCase);
